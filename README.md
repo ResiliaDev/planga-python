@@ -3,7 +3,10 @@ Planga Python Wrapper:
 
 [![Planga](https://img.shields.io/badge/%F0%9F%98%8E%20planga-chat-ff00ff.svg)](http://www.planga.io/)
 [![Planga Docs](https://img.shields.io/badge/planga-docs-lightgrey.svg)](http://www.planga.io/docs)
+
 [![PyPI](https://img.shields.io/pypi/v/planga.svg)](https://pypi.org/project/planga/)
+=![PyPI - Python Version](https://img.shields.io/pypi/pyversions/planga.svg)](https://pypi.org/project/planga/)
+
 
 
 **Example usage:**
